@@ -1,0 +1,62 @@
+/* Dougs CSS*/
+body {
+    text-align: center;
+    background-image: url(http://www.daswallpaper.de/wallpaper/original/Black-Wallpaper-HD-Desktop.jpg);
+    color: white;
+    font-family: Arial, sans-serif;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-family: Helvetica;
+    font-size: 48px;
+}
+
+ul {
+    clear: both;
+}
+
+li {
+    list-style: none;
+    display: inline;
+    margin-right: 10px;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+    font-family: Helvetica;
+    font-size: 32px;
+}
+p {
+    font-size: 18px;
+}
+
+p:nth-child(1) {
+    margin: 0px 200px 0px 200px;
+}
+
+.impact {
+    font-family: cursive, sans-serif;
+}
+#doge body {
+    margin: 0px 500px 0px 500px;
+    font-family: cursive;
+}
+input {
+    border: 0;
+    padding: 12px;
+    font-size: 18px;
+}
+input[type="submit"] {
+    border-color: #000000;
+    background-color: limegreen;
+    border-style: 2px dashed #00000;
+    border-radius: 1px;
+    background: limegreen;
+    color: black;
+}
